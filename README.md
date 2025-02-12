@@ -54,5 +54,5 @@ Go to **http://127.0.0.1:5000/** in your browser to start drawing digits and get
 Feel free to contribute by improving the model, enhancing UI, or optimizing the Flask backend! Open an issue or submit a PR.
 
 ## 📜 License
-This project is open-source under the **MIT License**. Enjoy and happy coding! 🚀
+This project is open-source under the **MIT License**.
 
