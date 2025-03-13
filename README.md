@@ -56,3 +56,9 @@ Feel free to contribute by improving the model, enhancing UI, or optimizing the 
 ## 📜 License
 This project is open-source under the **MIT License**.
 
+## Contact
+Mail: bektas.sari@gmail.com
+GitHub: bektas-sari
+
+
+
